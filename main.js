@@ -1,0 +1,36 @@
+var game = "Valorant is a very good shooters game!";
+console.log(game);
+var game2 = " Roblox a multiplayer game and has more games in it";
+console.log(game2);
+var gamegame2 = game.concat(game2);
+console.log(gamegame2)
+var game_length =game.length;
+console.log(game_length) 
+var game2_length = game2.length;
+console.log(game2_length);
+var gamegame2_length = gamegame2.length;
+console.log(gamegame2_length);
+var place = "bad north";
+console.log(place);
+var bad = place.replace("bad","good");
+console.log(bad);
+var lower = "LOWER";
+console.log(lower);
+var captital = lower.toLowerCase();
+console.log(captital);
+var bat = "bat";
+console.log(bat);
+var BAT = bat.toUpperCase();
+console.log(BAT);
+var max_number = Math.max(212,3232);
+console.log(max_number);
+var min_number = Math.min(3290,49343);
+console.log(min_number);
+var stored = 4;
+console.log(stored);
+var stored1 = 8;
+console.log(stored1);
+var add = stored + stored1;
+console.log(add);
+var subtract = stored - stored1;
+console.log(subtract);
